@@ -6,4 +6,4 @@
 
 ## ✏️Baekjoon Explanation
 
-#### [풀이]()
+#### [풀이](https://github.com/WeeYoungSeok/Algorithm)
