@@ -5,7 +5,7 @@
 
 ## 풀이
 
-- Hello World!를 출력하시오.
+- Hello World!를 출력하시오. 
 
 ## 코드
 
